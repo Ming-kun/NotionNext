@@ -18,7 +18,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_1_URL: 'https://space.bilibili.com/8819422/', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '明坤', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://www.linkedin.com/in/mingkunzheng/', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_ICON: '/images/starter/linkedin-2.svg', // 英雄区按钮2的图标，不需要则留空
+  STARTER_HERO_BUTTON_2_ICON: '/images/starter/linkedin-3.svg', // 英雄区按钮2的图标，不需要则留空
 
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/kaishan-image.webp', // 产品预览图 ，默认读取public目录下图片
 
