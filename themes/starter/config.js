@@ -11,8 +11,8 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '创新意味着孤身走暗巷，没有同伴的支持，没有市场的反馈。所有的确定感，都来自你心中的火苗', // 英雄区文字
-  STARTER_HERO_TITLE_2: 'Don’t be the best, Be the only.', // 英雄区文字
+  STARTER_HERO_TITLE_1: 'Don’t be the best, Be the only.', // 英雄区文字
+  STARTER_HERO_TITLE_2: '创新意味着孤身走暗巷，没有同伴的支持，没有市场的反馈。所有的确定感，都来自你心中的火苗', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '盗火', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL: 'https://space.bilibili.com/8819422/', // 英雄区按钮
