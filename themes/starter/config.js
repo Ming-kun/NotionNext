@@ -300,19 +300,15 @@ const CONFIG = {
       TITLE: 'About Us',
       LINK_GROUP: [
         { TITLE: 'Home', URL: '/#home' },
-        { TITLE: 'Document', URL: 'https://stealingfire.cc/archive' },
+        { TITLE: 'Blog', URL: 'https://stealingfire.cc/archive' },
         {
           TITLE: 'linkedin',
           URL: 'http://www.linkedin.com/in/mingkunzheng'
-        },
-        {
-          TITLE: 'Collaboration',
-          URL: 'dukkha.mk@gmail.com'
         }
       ]
     },
     {
-      TITLE: '功能特性',
+      TITLE: 'Blog',
       LINK_GROUP: [
         {
           TITLE: '部署指南',
