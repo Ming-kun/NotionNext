@@ -314,6 +314,10 @@ const CONFIG = {
           URL: 'https://stealingfire.cc/category/The%20Path%20to%20AGI'
         },
         {
+          TITLE: 'AI Art',
+          URL: 'https://stealingfire.cc/category/AI%20Art'
+        },
+        {
           TITLE: 'Smart Home',
           URL: 'https://stealingfire.cc/category/Smart%20Home'
         },
