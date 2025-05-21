@@ -13,11 +13,11 @@ const CONFIG = {
   STARTER_HERO_TITLE_1: 'The Path to AGI', // 英雄区文字
   STARTER_HERO_TITLE_2: 'Skin in the Game', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: 'Getting started', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: 'Linkedin', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
+    'www.linkedin.com/in/mingkunzheng', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: 'Subscribe on YouTube', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'stealingfire.cc', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://www.youtube.com/@AAA_Lab', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/youtube.svg', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
