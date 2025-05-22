@@ -65,8 +65,8 @@ const CONFIG = {
   STARTER_ABOUT_BUTTON_URL: 'https://stealingfire.cc/archive',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_TIPS_1: 'Keep moving forward',
-  STARTER_ABOUT_TIPS_2: 'Stealing Fire',
+  STARTER_ABOUT_TIPS_1: 'Join us',
+  STARTER_ABOUT_TIPS_2: 'Keep moving forward',
   STARTER_ABOUT_TIPS_3: 'Together with the pioneers',
 
   // 首页价格区块
