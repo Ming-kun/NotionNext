@@ -60,7 +60,7 @@ const CONFIG = {
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: 'Welcome to the Stealing Fire Knowledge Hub!',
-  STARTER_ABOUT_TEXT: 'Here youll find a continuously updated learning path covering AI and smart home technologies — from key terms to real-world applications. More importantly, we hope it sparks a deeper question: <br /> <br /> “What can I do with AI to empower myself?”',
+  STARTER_ABOUT_TEXT: 'Here you will find a continuously updated learning path covering AI and smart home technologies — from key terms to real-world applications. More importantly, we hope it sparks a deeper question: <br /> <br /> “What can I do with AI to empower myself?”',
   STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
   STARTER_ABOUT_BUTTON_URL: 'https://stealingfire.cc/archive',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
@@ -71,13 +71,13 @@ const CONFIG = {
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: true, // 价格区块开关
-  STARTER_PRICING_TITLE: '价格表',
-  STARTER_PRICING_TEXT_1: '很棒的定价计划',
+  STARTER_PRICING_TITLE: 'Sponsor',
+  STARTER_PRICING_TEXT_1: 'Buy me a coffee ☕',
   STARTER_PRICING_TEXT_2:
-    '我们制定了灵活的付费模式，您可以按需选择。（NotionNext免费开源，这里仅演示产品订阅付费功能，请勿下单购买！）',
+    'all the content here is completely free. Buying me a coffee is just a way to show support — and you will have my heartfelt thanks!）',
 
-  STARTER_PRICING_1_TITLE: '入门版',
-  STARTER_PRICING_1_PRICE: '19.9',
+  STARTER_PRICING_1_TITLE: 'Americano',
+  STARTER_PRICING_1_PRICE: '2.5',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
   STARTER_PRICING_1_PRICE_PERIOD: '每月',
   STARTER_PRICING_1_HEADER: '功能点',
@@ -86,9 +86,9 @@ const CONFIG = {
   STARTER_PRICING_1_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
 
-  STARTER_PRICING_2_TAG: '推荐',
+  STARTER_PRICING_2_TAG: '​​Double Shot Americano',
   STARTER_PRICING_2_TITLE: '基础版',
-  STARTER_PRICING_2_PRICE: '39.9',
+  STARTER_PRICING_2_PRICE: '3.9',
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
   STARTER_PRICING_2_PRICE_PERIOD: '每月',
   STARTER_PRICING_2_HEADER: '功能点',
@@ -97,8 +97,8 @@ const CONFIG = {
   STARTER_PRICING_2_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
 
-  STARTER_PRICING_3_TITLE: '高级版',
-  STARTER_PRICING_3_PRICE: '59.9',
+  STARTER_PRICING_3_TITLE: '​​Deluxe Milk Tea',
+  STARTER_PRICING_3_PRICE: '4.8',
   STARTER_PRICING_3_PRICE_CURRENCY: '$',
   STARTER_PRICING_3_PRICE_PERIOD: '每月',
   STARTER_PRICING_3_HEADER: '功能点',
@@ -109,7 +109,7 @@ const CONFIG = {
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
-  STARTER_TESTIMONIALS_TITLE: '用户反馈',
+  STARTER_TESTIMONIALS_TITLE: 'Feedback',
   STARTER_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
   STARTER_TESTIMONIALS_TEXT_2:
     '数千位站长选择用NotionNext搭建他们的网站,通过帮助手册、交流社群以及技术咨询，大家成功上线了自己的网站',
@@ -196,32 +196,32 @@ const CONFIG = {
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关
-  STARTER_TEAM_TITLE: '团队成员',
-  STARTER_TEAM_TEXT_1: '我们的开发者团队',
+  STARTER_TEAM_TITLE: 'Team',
+  STARTER_TEAM_TEXT_1: 'A huge, massive team',
   STARTER_TEAM_TEXT_2:
-    'NotionNext 由众多开源技术爱好者们共同合作完成，感谢每一位<a className="underline" href="https://github.com/tangly1024/NotionNext/graphs/contributors">贡献者</a>',
+    'Thanks to every AI enthusiast and Smart Home lover out <a className="underline" href="https://stealingfire.cc">there!</a>',
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TEAM_ITEMS: [
     {
       STARTER_TEAM_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Ftangly1024.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
-      STARTER_TEAM_ITEM_NICKNAME: 'Tangly',
+        '/images/starter/team/team-mk (1).png',
+      STARTER_TEAM_ITEM_NICKNAME: 'Mingkun',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Melissa Tatcher',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-mk (1).png',
+      STARTER_TEAM_ITEM_NICKNAME: 'Mingkun',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Marketing Expert'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Stuard Ferrel',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-mk (1).png',
+      STARTER_TEAM_ITEM_NICKNAME: 'Mingkun',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Digital Marketer'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Eva Hudson',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-mk (1).png',
+      STARTER_TEAM_ITEM_NICKNAME: 'MIngkun',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Creative Designer'
     }
   ],
