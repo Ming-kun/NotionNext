@@ -206,22 +206,22 @@ const CONFIG = {
     {
       STARTER_TEAM_ITEM_AVATAR:
         '/images/starter/team/team-mk (1).png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Mingkun',
+      STARTER_TEAM_ITEM_NICKNAME: 'MK',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-mk (1).png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Mingkun',
+      STARTER_TEAM_ITEM_NICKNAME: 'MK',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Marketing Expert'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-mk (1).png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Mingkun',
+      STARTER_TEAM_ITEM_NICKNAME: 'MK',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Digital Marketer'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-mk (1).png',
-      STARTER_TEAM_ITEM_NICKNAME: 'MIngkun',
+      STARTER_TEAM_ITEM_NICKNAME: 'MK',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Creative Designer'
     }
   ],
