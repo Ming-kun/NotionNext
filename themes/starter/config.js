@@ -14,7 +14,7 @@ const CONFIG = {
   STARTER_HERO_TITLE_2: 'Skin in the Game', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: 'Linkedin', // 英雄区按钮
-  STARTER_HERO_BUTTON_1_URL: 'www.linkedin.com/in/mingkunzheng', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_URL: 'https://www.linkedin.com/in/mingkunzheng', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: 'Subscribe on YouTube', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://www.youtube.com/@AAA_Lab', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/youtube.svg', // 英雄区按钮2的图标，不需要则留空
@@ -59,16 +59,15 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '一套轻量实用的建站解决方案',
-  STARTER_ABOUT_TEXT:
-    'NotionNext的愿景是帮助非技术人员的小白，最低成本、最快速地搭建自己的网站，帮助您将自己的产品与故事高效地传达给世界。 <br /> <br /> 功能强大的Notion笔记，简单快速的Vercel托管平台，组成一个简单的网站',
-  STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
+  STARTER_ABOUT_TITLE: 'Welcome to the Stealing Fire Knowledge Hub!',
+  STARTER_ABOUT_TEXT: 'Here youll find a continuously updated learning path covering AI and smart home technologies — from key terms to real-world applications. More importantly, we hope it sparks a deeper question: <br /> <br /> “What can I do with AI to empower myself?”',
+  STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
+  STARTER_ABOUT_BUTTON_URL: 'https://stealingfire.cc/archive',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_TIPS_1: '7000+',
-  STARTER_ABOUT_TIPS_2: '博客站点',
-  STARTER_ABOUT_TIPS_3: '正在线上运行',
+  STARTER_ABOUT_TIPS_1: 'Keep moving forward',
+  STARTER_ABOUT_TIPS_2: 'Stealing Fire',
+  STARTER_ABOUT_TIPS_3: 'Together with the pioneers',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: true, // 价格区块开关
