@@ -353,17 +353,17 @@ const CONFIG = {
 
   // 页面底部的行动呼吁模块
   STARTER_CTA_ENABLE: true,
-  STARTER_CTA_TITLE: '你还在等待什么呢？',
-  STARTER_CTA_TITLE_2: '现在开始吧',
+  STARTER_CTA_TITLE: 'So, what are you waiting for?',
+  STARTER_CTA_TITLE_2: 'Let’s get started',
   STARTER_CTA_DESCRIPTION:
-    '访问NotionNext的操作文档，我们提供了详细的教程，帮助你即刻搭建站点',
+    'Start with any article',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
     'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
-  STARTER_CTA_BUTTON_TEXT: '开始体验',
+  STARTER_CTA_BUTTON_TEXT: 'Get started',
 
   STARTER_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
-  STARTER_POST_REDIRECT_URL: 'https://blog.tangly1024.com', // 重定向域名
+  STARTER_POST_REDIRECT_URL: 'https://stealingfire.cc', // 重定向域名
   STARTER_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_STARTER_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
 export default CONFIG
