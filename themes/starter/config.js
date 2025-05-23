@@ -354,12 +354,11 @@ const CONFIG = {
   // 页面底部的行动呼吁模块
   STARTER_CTA_ENABLE: true,
   STARTER_CTA_TITLE: 'So, what are you waiting for?',
-  STARTER_CTA_TITLE_2: 'Let’s get started',
+  STARTER_CTA_TITLE_2: 'Let us get started',
   STARTER_CTA_DESCRIPTION:
     'Start with any article',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
-  STARTER_CTA_BUTTON_URL:
-    'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
+  STARTER_CTA_BUTTON_URL: 'https://stealingfire.cc',
   STARTER_CTA_BUTTON_TEXT: 'Get started',
 
   STARTER_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
