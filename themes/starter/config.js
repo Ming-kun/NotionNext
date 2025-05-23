@@ -79,7 +79,7 @@ const CONFIG = {
   STARTER_PRICING_1_TITLE: 'Cheappuccino',
   STARTER_PRICING_1_PRICE: '1.90',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
-  STARTER_PRICING_1_PRICE_PERIOD: 'month',
+  STARTER_PRICING_1_PRICE_PERIOD: 'cup',
   STARTER_PRICING_1_HEADER: '7-Eleven',
   STARTER_PRICING_1_FEATURES: 'Nods in thanks,Cheers!', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: 'Buy it',
@@ -90,7 +90,7 @@ const CONFIG = {
   STARTER_PRICING_2_TITLE: 'Pumpkin Spice Latte',
   STARTER_PRICING_2_PRICE: '3.50',
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
-  STARTER_PRICING_2_PRICE_PERIOD: 'month',
+  STARTER_PRICING_2_PRICE_PERIOD: 'cup',
   STARTER_PRICING_2_HEADER: 'Starbucks',
   STARTER_PRICING_2_FEATURES: 'Bows deeply in gratitude,Much obliged', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: 'Just buy it',
@@ -100,7 +100,7 @@ const CONFIG = {
   STARTER_PRICING_3_TITLE: '​​Bubble tea',
   STARTER_PRICING_3_PRICE: '7.90',
   STARTER_PRICING_3_PRICE_CURRENCY: '$',
-  STARTER_PRICING_3_PRICE_PERIOD: 'month',
+  STARTER_PRICING_3_PRICE_PERIOD: 'cup',
   STARTER_PRICING_3_HEADER: 'The Alley',
   STARTER_PRICING_3_FEATURES: 'Slides to my knees in gratitude,Forever grateful', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: 'Go for it',
@@ -210,17 +210,17 @@ const CONFIG = {
       STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-mk (1).png',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-mk (3).png',
       STARTER_TEAM_ITEM_NICKNAME: 'MK',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Marketing Expert'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-mk (1).png',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-mk (4).png',
       STARTER_TEAM_ITEM_NICKNAME: 'MK',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Digital Marketer'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-mk (1).png',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-mk (2).png',
       STARTER_TEAM_ITEM_NICKNAME: 'MK',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Creative Designer'
     }
@@ -228,20 +228,20 @@ const CONFIG = {
 
   // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
-  STARTER_BLOG_TITLE: '我们的博客',
+  STARTER_BLOG_TITLE: 'My blog',
   STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
-  STARTER_BLOG_TEXT_1: '最近的新闻',
+  STARTER_BLOG_TEXT_1: 'Latest article',
   STARTER_BLOG_TEXT_2:
-    '这里会发布一些关于NotionNext的最新动态，包括新的动向、新的未来计划，以及新功能的特性',
+    'The latest updates on the path to AGI and Smart Home',
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
-  STARTER_CONTACT_TITLE: '联系我们',
-  STARTER_CONTACT_TEXT: '告诉我们您遇到的问题',
-  STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
-  STARTER_CONTACT_LOCATION_TEXT: '中国，福建',
-  STARTER_CONTACT_EMAIL_TITLE: '我们如何帮助您？',
-  STARTER_CONTACT_EMAIL_TEXT: 'mail@tangly1024.com',
+  STARTER_CONTACT_TITLE: 'Contact me',
+  STARTER_CONTACT_TEXT: 'Tell me about the problem you are experiencing',
+  STARTER_CONTACT_LOCATION_TITLE: 'My location',
+  STARTER_CONTACT_LOCATION_TEXT: 'Shenzhen, Guangdong, China',
+  STARTER_CONTACT_EMAIL_TITLE: 'How can I help you?',
+  STARTER_CONTACT_EMAIL_TEXT: 'dukkha.mk@gmail.com',
 
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/yfctc7', // 基于NoteForm创建，将留言数据存在Notion中
