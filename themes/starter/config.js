@@ -76,34 +76,34 @@ const CONFIG = {
   STARTER_PRICING_TEXT_2:
     'all the content here is completely free. Buying me a coffee is just a way to show support — and you will have my heartfelt thanks!）',
 
-  STARTER_PRICING_1_TITLE: 'Americano',
-  STARTER_PRICING_1_PRICE: '2.5',
+  STARTER_PRICING_1_TITLE: 'Cheappuccino',
+  STARTER_PRICING_1_PRICE: '1.90',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
-  STARTER_PRICING_1_PRICE_PERIOD: '每月',
-  STARTER_PRICING_1_HEADER: '功能点',
-  STARTER_PRICING_1_FEATURES: '所有的主题,免费更新,帮助手册', // 英文逗号隔开
-  STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
+  STARTER_PRICING_1_PRICE_PERIOD: 'month',
+  STARTER_PRICING_1_HEADER: '7-Eleven',
+  STARTER_PRICING_1_FEATURES: 'Nods in thanks,Cheers!', // 英文逗号隔开
+  STARTER_PRICING_1_BUTTON_TEXT: 'Buy it',
   STARTER_PRICING_1_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
 
-  STARTER_PRICING_2_TAG: '​​Double Shot Americano',
-  STARTER_PRICING_2_TITLE: '基础版',
-  STARTER_PRICING_2_PRICE: '3.9',
+  STARTER_PRICING_2_TAG: '​​Recommended',
+  STARTER_PRICING_2_TITLE: 'Pumpkin Spice Latte',
+  STARTER_PRICING_2_PRICE: '3.50',
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
-  STARTER_PRICING_2_PRICE_PERIOD: '每月',
-  STARTER_PRICING_2_HEADER: '功能点',
-  STARTER_PRICING_2_FEATURES: '包含入门版,项目源码,内部社群,技术咨询,SEO优化', // 英文逗号隔开
-  STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
+  STARTER_PRICING_2_PRICE_PERIOD: 'month',
+  STARTER_PRICING_2_HEADER: 'Starbucks',
+  STARTER_PRICING_2_FEATURES: 'Bows deeply in gratitude,Much obliged', // 英文逗号隔开
+  STARTER_PRICING_2_BUTTON_TEXT: 'Just buy it',
   STARTER_PRICING_2_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
 
-  STARTER_PRICING_3_TITLE: '​​Deluxe Milk Tea',
-  STARTER_PRICING_3_PRICE: '4.8',
+  STARTER_PRICING_3_TITLE: '​​Bubble tea',
+  STARTER_PRICING_3_PRICE: '7.90',
   STARTER_PRICING_3_PRICE_CURRENCY: '$',
-  STARTER_PRICING_3_PRICE_PERIOD: '每月',
-  STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '包含基础版,功能定制开发', // 英文逗号隔开
-  STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
+  STARTER_PRICING_3_PRICE_PERIOD: 'month',
+  STARTER_PRICING_3_HEADER: 'The Alley',
+  STARTER_PRICING_3_FEATURES: 'Slides to my knees in gratitude,Forever grateful', // 英文逗号隔开
+  STARTER_PRICING_3_BUTTON_TEXT: 'Go for it',
   STARTER_PRICING_3_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 
