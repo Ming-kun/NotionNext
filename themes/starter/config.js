@@ -33,7 +33,7 @@ const CONFIG = {
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
   STARTER_FEATURE_TITLE: 'How to Get Started?​​', // 特性
-  STARTER_FEATURE_TEXT_1: '4 Paths to AGI', // 特性
+  STARTER_FEATURE_TEXT_1: 'Upgrade yourself with AI and build your own dreams', // 特性
   STARTER_FEATURE_TEXT_2:
     'AI works for you—you’re in the driver’s seat. You may steer a great car, but your grit outpaces the machine.', // 特性
 
