@@ -4,7 +4,7 @@ const BLOG = {
   // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
   NOTION_PAGE_ID:
     process.env.NOTION_PAGE_ID ||
-    '02ab3b8678004aa69e9e415905ef32a5,en:7c1d570661754c8fbc568e00a01fd70e',
+    '3a1c8776f4d045ce903cb29eaf0bd34b,cn:1ff9d71291a8801abfdffb1b7213de22',
   THEME: process.env.NEXT_PUBLIC_THEME || 'starter', // 当前主题，在themes文件夹下可找到所有支持的主题；主题名称就是文件夹名，例如 example,fukasawa,gitbook,heo,hexo,landing,matery,medium,next,nobelium,plog,simple
   LANG: process.env.NEXT_PUBLIC_LANG || 'en-US', // e.g 'zh-CN','en-US'  see /lib/lang.js for more.
   SINCE: process.env.NEXT_PUBLIC_SINCE || 2024, // e.g if leave this empty, current year will be used.
@@ -69,3 +69,29 @@ const BLOG = {
 }
 
 module.exports = BLOG
+
+
+/** 针对“/cn” 数据库的专属覆盖参数 */
+const MULTI_DB_CONFIG = {
+  cn: {
+    // ——1) 主题：随便填任何 NotionNext 内置主题 key——
+    THEME: 'gitbook',
+
+    // ——2) 主题专属开关或自定义颜色——
+    GITBOOK_LIGHT_NAV_BAR: true,
+    PRIMARY_COLOR: '#d4237a',
+
+    // ——3) 插件：评论、统计、搜索……——
+    COMMENT_PROVIDER: 'waline',
+    COMMENT_WALINE_SERVER_URL: 'https://waline.example.com',
+
+    // ……其它你想给中文站单独开的变量……
+  }
+}
+
+module.exports = {
+  // 原有的 export 对象展开放这里……
+  NOTION_PAGE_ID: process.env.NOTION_PAGE_ID,
+  // …
+  MULTI_DB_CONFIG           // ⬅ 一定别漏
+}
