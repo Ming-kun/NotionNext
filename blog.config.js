@@ -68,30 +68,22 @@ const BLOG = {
   UUID_REDIRECT: process.env.UUID_REDIRECT || false
 }
 
-module.exports = BLOG
 
-
-/** 针对“/cn” 数据库的专属覆盖参数 */
+/** 针对 “/cn” 数据库的专属覆盖参数 */
 const MULTI_DB_CONFIG = {
   cn: {
-    // ——1) 主题：随便填任何 NotionNext 内置主题 key——
     THEME: 'gitbook',
-
-    // ——2) 主题专属开关或自定义颜色——
     GITBOOK_LIGHT_NAV_BAR: true,
     PRIMARY_COLOR: '#d4237a',
-
-    // ——3) 插件：评论、统计、搜索……——
     COMMENT_PROVIDER: 'waline',
-    COMMENT_WALINE_SERVER_URL: 'https://waline.example.com',
-
-    // ……其它你想给中文站单独开的变量……
+    COMMENT_WALINE_SERVER_URL: 'https://waline.example.com'
   }
 }
 
+/* 将中文站专属配置挂到总配置对象上 */
+BLOG.MULTI_DB_CONFIG = MULTI_DB_CONFIG
+
+/* **只导出一次** —— 以后引用 `require('./blog.config')` 时可拿到完整对象 */
 module.exports = {
-  // 原有的 export 对象展开放这里……
-  NOTION_PAGE_ID: process.env.NOTION_PAGE_ID,
-  // …
-  MULTI_DB_CONFIG           // ⬅ 一定别漏
+  ...BLOG
 }
