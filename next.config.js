@@ -91,13 +91,7 @@ const nextConfig = {
       : undefined,
   staticPageGenerationTimeout: 120,
   // 多语言， 在export时禁用
-  i18n: process.env.EXPORT
-    ? undefined
-    : {
-        defaultLocale: BLOG.LANG,
-        // 支持的所有多语言,按需填写即可
-        locales: locales
-      },
+   },
   images: {
     // 图片压缩
     formats: ['image/avif', 'image/webp'],
