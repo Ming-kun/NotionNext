@@ -91,7 +91,7 @@ const nextConfig = {
       : undefined,
   staticPageGenerationTimeout: 120,
   // 多语言， 在export时禁用
-   },
+
   images: {
     // 图片压缩
     formats: ['image/avif', 'image/webp'],
