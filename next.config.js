@@ -160,11 +160,11 @@ const nextConfig = {
         }
 
         return [
-          // ——1) 中文站所有路径 → 中文项目域名
-          {
-           source: '/cn/:path*',
-           destination: 'https://notion-next-cn.vercel.app/:path*'
-          },
+           // ——中文站反向代理——
+           {
+             source: '/cn/:path*',
+             destination: 'https://notion-next-cn.vercel.app/:path*'
+           },
           ...langsRewrites,
           // 伪静态重写
           {
