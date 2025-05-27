@@ -69,20 +69,6 @@ const BLOG = {
 }
 
 
-/** 针对 “/cn” 数据库的专属覆盖参数 */
-const MULTI_DB_CONFIG = {
-  cn: {
-    THEME: 'gitbook',
-    GITBOOK_LIGHT_NAV_BAR: true,
-    PRIMARY_COLOR: '#d4237a',
-    COMMENT_PROVIDER: 'waline',
-    COMMENT_WALINE_SERVER_URL: 'https://waline.example.com'
-  }
-}
-
-/* 将中文站专属配置挂到总配置对象上 */
-BLOG.MULTI_DB_CONFIG = MULTI_DB_CONFIG
-
 /* **只导出一次** —— 以后引用 `require('./blog.config')` 时可拿到完整对象 */
 module.exports = {
   ...BLOG
