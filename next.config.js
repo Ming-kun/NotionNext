@@ -226,6 +226,15 @@ const nextConfig = {
     THEMES: themes
   }
 }
+nextConfig.rewrites = async () => {
+  return [
+    // 1) 中文站所有路径 → 中文项目域名
+    {
+      source: '/cn/:path*',
+      destination: 'https://notion-next-cn.vercel.app/:path*'
+    }
+  ];
+};
 
 module.exports = process.env.ANALYZE
   ? withBundleAnalyzer(nextConfig)
