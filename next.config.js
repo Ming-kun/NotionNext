@@ -54,7 +54,7 @@ const preBuild = (function () {
     console.log('Deleted existing sitemap.xml from root directory')
   }
 })()
-
+ 
 /**
  * 扫描指定目录下的文件夹名，用于获取所有主题
  * @param {*} directory
