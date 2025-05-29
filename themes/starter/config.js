@@ -84,7 +84,7 @@ const CONFIG = {
   STARTER_PRICING_1_FEATURES: 'Nods in thanks,Cheers!', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: 'Buy it',
   STARTER_PRICING_1_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
+    'https://ko-fi.com/s/a4e2b05ba9',
 
   STARTER_PRICING_2_TAG: '​​Recommended',
   STARTER_PRICING_2_TITLE: 'Pumpkin Spice Latte',
@@ -95,7 +95,7 @@ const CONFIG = {
   STARTER_PRICING_2_FEATURES: 'Bows deeply in gratitude,Much obliged', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: 'Just buy it',
   STARTER_PRICING_2_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
+    'https://ko-fi.com/s/c642da6539',
 
   STARTER_PRICING_3_TITLE: '​​Bubble tea',
   STARTER_PRICING_3_PRICE: '9.90',
@@ -105,7 +105,7 @@ const CONFIG = {
   STARTER_PRICING_3_FEATURES: 'Slides to my knees in gratitude,Forever grateful', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: 'Go for it',
   STARTER_PRICING_3_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
+    'https://ko-fi.com/s/94f589a7b6',
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
