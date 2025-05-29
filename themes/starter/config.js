@@ -24,11 +24,11 @@ const CONFIG = {
   STARTER_HERO_BANNER_IMAGE: '', // hero区下方的全宽图
 
   // 顶部右侧导航暗流
-  STARTER_NAV_BUTTON_1_TEXT: 'Smart Home',
-  STARTER_NAV_BUTTON_1_URL: '/category/Smart%20Home',
+  STARTER_NAV_BUTTON_1_TEXT: '中文站',
+  STARTER_NAV_BUTTON_1_URL: 'https://stealingfire.online/about',
 
-  STARTER_NAV_BUTTON_2_TEXT: 'AGI',
-  STARTER_NAV_BUTTON_2_URL: '/category/The%20Path%20to%20AGI',
+  STARTER_NAV_BUTTON_2_TEXT: 'Global Blog',
+  STARTER_NAV_BUTTON_2_URL: '/archive',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
