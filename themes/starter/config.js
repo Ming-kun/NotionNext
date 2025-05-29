@@ -77,7 +77,7 @@ const CONFIG = {
     'all the content here is completely free. Buying me a coffee is just a way to show support — and you will have my heartfelt thanks!）',
 
   STARTER_PRICING_1_TITLE: 'Cheappuccino',
-  STARTER_PRICING_1_PRICE: '1.90',
+  STARTER_PRICING_1_PRICE: '2.90',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
   STARTER_PRICING_1_PRICE_PERIOD: 'cup',
   STARTER_PRICING_1_HEADER: '7-Eleven',
@@ -88,7 +88,7 @@ const CONFIG = {
 
   STARTER_PRICING_2_TAG: '​​Recommended',
   STARTER_PRICING_2_TITLE: 'Pumpkin Spice Latte',
-  STARTER_PRICING_2_PRICE: '3.50',
+  STARTER_PRICING_2_PRICE: '4.50',
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
   STARTER_PRICING_2_PRICE_PERIOD: 'cup',
   STARTER_PRICING_2_HEADER: 'Starbucks',
@@ -98,7 +98,7 @@ const CONFIG = {
     'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
 
   STARTER_PRICING_3_TITLE: '​​Bubble tea',
-  STARTER_PRICING_3_PRICE: '7.90',
+  STARTER_PRICING_3_PRICE: '9.90',
   STARTER_PRICING_3_PRICE_CURRENCY: '$',
   STARTER_PRICING_3_PRICE_PERIOD: 'cup',
   STARTER_PRICING_3_HEADER: 'The Alley',
