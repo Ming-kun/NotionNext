@@ -145,13 +145,10 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
-      STARTER_TESTIMONIALS_ITEM_TEXT:
-        'Thanks for creating such an amazing website! Haha, I had no idea how to get started before (other tutorials were so difficult and complicated), but this one is super simple and incredibly beginner-friendly!',
-      STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
+      STARTER_TESTIMONIALS_ITEM_TEXT:'Thanks for creating such an amazing website! Haha, I had no idea how to get started before (other tutorials were so difficult and complicated), but this one is super simple and incredibly beginner-friendly!',
+      STARTER_TESTIMONIALS_ITEM_AVATAR:'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Diseng',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'PM at an Internet Company
-',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'PM at an Internet Company',
       STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
