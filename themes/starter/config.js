@@ -111,8 +111,7 @@ const CONFIG = {
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
   STARTER_TESTIMONIALS_TITLE: 'Feedback',
   STARTER_TESTIMONIALS_TEXT_1: 'What readers say',
-  STARTER_TESTIMONIALS_TEXT_2:
-    'Thousands of AI beginners have chosen to start their AI journey here. With a wide range of in-depth articles, many have successfully used AI to significantly boost their productivity.',
+  STARTER_TESTIMONIALS_TEXT_2:'Thousands of AI beginners have chosen to start their AI journey here. With a wide range of in-depth articles, many have successfully used AI to significantly boost their productivity.',
   STARTER_TESTIMONIALS_STAR_ICON: '/images/starter/testimonials/icon-star.svg', // 评分图标
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
@@ -120,8 +119,7 @@ const CONFIG = {
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         'Big thanks to Stealing Fire for this knowledge base. I’ve gone through many other tutorials before, but most were scattered — this is the only place I’ve found a truly comprehensive and well-structured resource! ',
-      STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
+      STARTER_TESTIMONIALS_ITEM_AVATAR:'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Ryan_K',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Entrepreneur',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -129,8 +127,7 @@ const CONFIG = {
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         'Really love this blog! As an AI beginner, I spent two days over the holiday building my own AI Agent and even set up a personal knowledge base following the tutorials. Huge thanks — coffee’s on me! ☕😊',
-      STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
+      STARTER_TESTIMONIALS_ITEM_AVATAR:'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Cassiopeia',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'AI beginner',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -138,8 +135,7 @@ const CONFIG = {
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         'Wow, there’s even a smart home section! I came here to learn AI and ended up getting into smart home too — without even realizing it, I’ve become a Maker! Huge thanks to the site admin!',
-      STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
+      STARTER_TESTIMONIALS_ITEM_AVATAR:'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Chihiro',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Maker',
       STARTER_TESTIMONIALS_ITEM_URL: ''
@@ -154,16 +150,14 @@ const CONFIG = {
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         'Huge thanks for this awesome blog project! I’ve been hoping for an AI knowledge base like this for a long time.',
-      STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fafb21381-f51b-4fd0-9998-800dbeb64dbe%2Favatar.png?table=block&id=195935d2-0d8d-49fc-bd81-1db42ee50840&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
+      STARTER_TESTIMONIALS_ITEM_AVATAR:'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fafb21381-f51b-4fd0-9998-800dbeb64dbe%2Favatar.png?table=block&id=195935d2-0d8d-49fc-bd81-1db42ee50840&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'AnJhon',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Anjhon',
       STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: 'Saved this a long time ago — thank you so much!',
-      STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe4f391d7-7d65-4c05-a82c-c6e2c40f06e4%2Fa2a7641a26b367608c6ef28ce9b7e983_(2).png?table=block&id=a386eb0e-4c07-4b18-9ece-bba4e79ce21c&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
+      STARTER_TESTIMONIALS_ITEM_AVATAR:'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe4f391d7-7d65-4c05-a82c-c6e2c40f06e4%2Fa2a7641a26b367608c6ef28ce9b7e983_(2).png?table=block&id=a386eb0e-4c07-4b18-9ece-bba4e79ce21c&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'LUCI',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'LUCI',
       STARTER_TESTIMONIALS_ITEM_URL: ''
