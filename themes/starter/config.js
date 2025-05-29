@@ -27,7 +27,7 @@ const CONFIG = {
   STARTER_NAV_BUTTON_1_TEXT: '中文站',
   STARTER_NAV_BUTTON_1_URL: 'https://stealingfire.online/about',
 
-  STARTER_NAV_BUTTON_2_TEXT: 'Global Blog',
+  STARTER_NAV_BUTTON_2_TEXT: 'Global Site',
   STARTER_NAV_BUTTON_2_URL: '/archive',
 
   // 特性区块
