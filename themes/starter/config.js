@@ -58,7 +58,7 @@ const CONFIG = {
   STARTER_FEATURE_4_BUTTON_URL: '/tag/Smart%20Home', // 特性4
 
   // 首页ABOUT区块
-  STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
+  STARTER_ABOUT_ENABLE: false, // ABOUT区块开关
   STARTER_ABOUT_TITLE: 'Welcome to the Stealing Fire Knowledge Hub!',
   STARTER_ABOUT_TEXT: 'Here you will find a continuously updated learning path covering AI and smart home technologies — from key terms to real-world applications. More importantly, we hope it sparks a deeper question: <br /> <br /> “What can I do with AI to empower myself?”',
   STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
@@ -108,7 +108,7 @@ const CONFIG = {
     'https://ko-fi.com/s/94f589a7b6',
 
   // 首页用户测评区块
-  STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
+  STARTER_TESTIMONIALS_ENABLE: false, // 测评区块开关
   STARTER_TESTIMONIALS_TITLE: 'Feedback',
   STARTER_TESTIMONIALS_TEXT_1: 'What readers say',
   STARTER_TESTIMONIALS_TEXT_2:'Thousands of AI beginners have chosen to start their AI journey here. With a wide range of in-depth articles, many have successfully used AI to significantly boost their productivity.',
