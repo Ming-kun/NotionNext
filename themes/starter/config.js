@@ -286,9 +286,9 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: 'About Us',
+      TITLE: 'About',
       LINK_GROUP: [
-        { TITLE: 'Home', URL: '/about' },
+        { TITLE: 'About Stealingfire', URL: '/article/about' },
         {
           TITLE: 'linkedin',
           URL: 'http://www.linkedin.com/in/mingkunzheng'
