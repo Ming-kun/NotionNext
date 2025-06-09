@@ -288,7 +288,7 @@ const CONFIG = {
     {
       TITLE: 'About Us',
       LINK_GROUP: [
-        { TITLE: 'Home', URL: '/#home' },
+        { TITLE: 'Home', URL: '/about' },
         {
           TITLE: 'linkedin',
           URL: 'http://www.linkedin.com/in/mingkunzheng'
