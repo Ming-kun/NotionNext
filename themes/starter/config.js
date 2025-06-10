@@ -299,16 +299,16 @@ const CONFIG = {
       TITLE: 'Blog',
       LINK_GROUP: [
         {
-          TITLE: 'The Path to AGI',
-          URL: 'https://stealingfire.cc/category/The%20Path%20to%20AGI'
+          TITLE: '​​AI Alpha',
+          URL: 'https://stealingfire.cc/category/%E2%80%8B%E2%80%8BAI%20Alpha'
         },
         {
-          TITLE: 'AI Art',
-          URL: 'https://stealingfire.cc/category/AI%20Art'
+          TITLE: 'Smart Home Alpha',
+          URL: 'https://stealingfire.cc/category/Smart%20Home%20Alpha'
         },
         {
-          TITLE: 'Smart Home',
-          URL: 'https://stealingfire.cc/category/Smart%20Home'
+          TITLE: 'Become Stark',
+          URL: 'https://stealingfire.cc/category/Become%20Tony%20Stark'
         },
       ]
     },
