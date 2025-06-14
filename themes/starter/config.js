@@ -37,25 +37,25 @@ const CONFIG = {
   STARTER_FEATURE_TEXT_2:
     'AI works for you—you’re in the driver’s seat. You may steer a great car, but your grit outpaces the machine.', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: 'AGI', // 特性1
-  STARTER_FEATURE_1_TEXT_1: 'Humanity’s dream roommate—masters every task, never steals your coffee', // 特性1
+  STARTER_FEATURE_1_TITLE_1: 'AI Alpha', // 特性1
+  STARTER_FEATURE_1_TEXT_1: 'Break down cutting-edge models, tools, and ways of thinking. Let computing power amplify creative power.', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: 'Learn more', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: '/tag/AGI', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: '/category/%E2%80%8B%E2%80%8BAI%20Alpha', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: 'AI Agent', // 特性2
-  STARTER_FEATURE_2_TEXT_1: 'An invisible intern that automates chores and never asks for pay', // 特性2
+  STARTER_FEATURE_2_TITLE_1: 'Smart Home Alpha', // 特性2
+  STARTER_FEATURE_2_TEXT_1: 'Turn every light and sensor into a source of certainty in your life. From beginner to expert, no step skipped.', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: 'Learn more', // 特性2
-  STARTER_FEATURE_2_BUTTON_URL: '/tag/AI%20Agent', // 特性2
+  STARTER_FEATURE_2_BUTTON_URL: '/category/Smart%20Home%20Alpha', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: 'AI Art', // 特性3
-  STARTER_FEATURE_3_TEXT_1: 'Code-wielding Picasso: zero paint, unlimited pixels, instant gallery', // 特性3
+  STARTER_FEATURE_3_TITLE_1: 'Become Tony Stark', // 特性3
+  STARTER_FEATURE_3_TEXT_1: 'Arm yourself to the teeth with automation, so even a one-person team can operate like Iron Man’s high-tech studio.', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: 'Learn more', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: '/tag/AI%20Art', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: '/category/Become%20Tony%20Stark', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: 'Smart Home', // 特性4
-  STARTER_FEATURE_4_TEXT_1: 'A wise-cracking Wi-Fi butler that nags, then kills the lights before you can say “Ohm', // 特性4
+  STARTER_FEATURE_4_TITLE_1: 'About Stealingfire', // 特性4
+  STARTER_FEATURE_4_TEXT_1: 'This isn’t a showroom—it’s a lab. Not a finish line, but a springboard. ', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: 'Learn more', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: '/tag/Smart%20Home', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: '/article/about', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: false, // ABOUT区块开关
