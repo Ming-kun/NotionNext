@@ -16,7 +16,7 @@ export default function BeforeAfterSlider () {
   return (
     <section className='mx-auto my-16 max-w-4xl'>
       <h2 className='text-center text-2xl font-bold mb-6'>
-        720 P ↔ 1080 P 实时对比
+        Before-and-After Comparison
       </h2>
 
       <div className='rounded-lg overflow-hidden shadow-lg'>
