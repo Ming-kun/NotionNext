@@ -4,6 +4,7 @@
 'use client'
 import Loading from '@/components/Loading'
 import NotionPage from '@/components/NotionPage'
+import BeforeAfterSlider from './components/BeforeAfterSlider'
 import { siteConfig } from '@/lib/config'
 import { isBrowser } from '@/lib/utils'
 import { useRouter } from 'next/router'
@@ -18,7 +19,6 @@ import { Features } from './components/Features'
 import { Footer } from './components/Footer'
 import { Header } from './components/Header'
 import { Hero } from './components/Hero'
-import { BeforeAfterSlider } from './components/BeforeAfterSlider'
 import { Pricing } from './components/Pricing'
 import { Team } from './components/Team'
 import { Testimonials } from './components/Testimonials'
@@ -95,7 +95,7 @@ const LayoutIndex = props => {
       {/* 英雄区 */}
       {siteConfig('STARTER_HERO_ENABLE', true, CONFIG) && <Hero {...props} />}
       {/* BeforeAfter区 */}
-      {siteConfig('STARTER_BRANDS_ENABLE', true, CONFIG) && <BeforeAfterSlider />}
+      {siteConfig('STARTER_BEFOREAFTER_ENABLE', true, CONFIG) && <BeforeAfterSlider />}
       {/* 合作伙伴 */}
       {siteConfig('STARTER_BRANDS_ENABLE', true, CONFIG) && <Brand />}
       {/* 产品特性 */}
