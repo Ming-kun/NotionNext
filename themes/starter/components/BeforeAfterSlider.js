@@ -14,7 +14,7 @@ export default function BeforeAfterSlider () {
   const AFTER  = '/images/starter/after.png'
   
   return (
-    <section className='mx-auto my-16 max-w-4xl'>
+    <section className='relative z-20 mx-auto my-16 max-w-4xl'>
       <h2 className='text-center text-2xl font-bold mb-6'>
         Before-and-After Comparison
       </h2>
