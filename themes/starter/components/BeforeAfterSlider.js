@@ -10,8 +10,8 @@ const ReactBeforeSlider = dynamic(
 )
 
 export default function BeforeAfterSlider () {
-  const BEFORE = '/images/slider-720.jpg'
-  const AFTER  = '/images/slider-1080.jpg'
+  const BEFORE = '/images/before .png'
+  const AFTER  = '/images/after.png'
 
   return (
     <section className='mx-auto my-16 max-w-4xl'>
