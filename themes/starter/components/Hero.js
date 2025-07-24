@@ -74,39 +74,18 @@ export const Hero = props => {
               </div>
             </div>
 
-            {/* 产品预览图片 */}
-            {siteConfig('STARTER_HERO_PREVIEW_IMAGE', null, config) && (
-              <div className='w-full px-4'>
-                <div
-                  className='wow fadeInUp relative z-10 mx-auto max-w-[845px]'
-                  data-wow-delay='.25s'>
-                  <div className='mt-16'>
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
-                      src={siteConfig(
-                        'STARTER_HERO_PREVIEW_IMAGE',
-                        null,
-                        config
-                      )}
-                      alt={siteConfig('TITLE', null, config)}
-                      title={siteConfig('TITLE', null, config)}
-                      className='mx-auto max-w-full rounded-t-xl rounded-tr-xl'
-                    />
-                  </div>
-
-                  {/* 背景图 */}
-                  <div className='absolute -left-9 bottom-0 z-[-1]'>
-                    <img src='/images/starter/bg-hero-circle.svg' />
-                  </div>
-                  <div className='absolute -right-6 -top-6 z-[-1]'>
-                    <img src='/images/starter/bg-hero-circle.svg' />
-                  </div>
-                </div>
-              </div>
-            )}
-          </div>
-        </div>
-      </div>
+            {/* 产品预览图片整版已删除 */}
+            {/* Before‑After 对比图 */}
+            <div className='w-full px-4'>
+             <div
+              className='wow fadeInUp relative z-10 mx-auto max-w-[845px]'
+              data-wow-delay='.25s'>
+              {/* 滑块组件外层加 bg-white 让深色模式也清晰 */}
+              <div className='rounded-xl overflow-hidden bg-white dark:bg-gray-800'>
+               <BeforeAfterSlider />
+             </div>
+           </div>
+         </div>
       {/* 横幅图片 */}
       {siteConfig('STARTER_HERO_BANNER_IMAGE', null, config) && (
         <div className='container'>
