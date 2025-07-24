@@ -3,6 +3,7 @@ import LazyImage from '@/components/LazyImage'
 import { siteConfig } from '@/lib/config'
 import CONFIG from '../config'
 import Link from 'next/link'
+import BeforeAfterSlider from './BeforeAfterSlider'
 
 /**
  * 英雄大图区块
