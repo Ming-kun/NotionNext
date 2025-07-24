@@ -98,7 +98,9 @@ export const Hero = props => {
             )}></LazyImage>
         </div>
       )}
-   {/* <!-- ======= Hero Section End --> */}
-  </div>
-  )
+      {/* <!-- ======= Hero Section End --> */}
+    </div>            {/* ← ① 关闭 id='home' 的 div */}
+  </div>              {/* ← ② 关闭最外层包装 div */}
+  </>
+)
 }
