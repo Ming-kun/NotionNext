@@ -85,6 +85,10 @@ export const Hero = props => {
              </div>
            </div>
          </div>
+         </div>    {/* ← ④ 关闭 flex-wrap 那层 */}
+       </div>      {/* ← ③ 关闭 container 那层 */}
+    </div>        {/* ← ② 关闭 id='home' 那层 */}
+
       {/* 横幅图片 */}
       {siteConfig('STARTER_HERO_BANNER_IMAGE', null, config) && (
         <div className='container'>
