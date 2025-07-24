@@ -11,7 +11,7 @@ import BeforeAfterSlider from './BeforeAfterSlider'
 export const Hero = props => {
   const config = props?.NOTION_CONFIG || CONFIG
   return (
-    <>
+   <div>
       {/* <!-- ====== Hero Section Start --> */}
       <div
         id='home'
@@ -99,6 +99,6 @@ export const Hero = props => {
         </div>
       )}
    {/* <!-- ======= Hero Section End --> */}
-    </>
+  </div>
   )
 }
