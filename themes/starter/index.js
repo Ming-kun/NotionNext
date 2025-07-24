@@ -95,7 +95,7 @@ const LayoutIndex = props => {
       {/* 英雄区 */}
       {siteConfig('STARTER_HERO_ENABLE', true, CONFIG) && <Hero {...props} />}
       {/* BeforeAfter区 */}
-      {siteConfig('STARTER_BEFOREAFTER_ENABLE', true, CONFIG) && <BeforeAfterSlider />}
+      {/* siteConfig('STARTER_BEFOREAFTER_ENABLE', true, CONFIG) && <BeforeAfterSlider /> */}
       {/* 合作伙伴 */}
       {siteConfig('STARTER_BRANDS_ENABLE', true, CONFIG) && <Brand />}
       {/* 产品特性 */}
