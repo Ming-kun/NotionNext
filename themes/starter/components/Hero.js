@@ -11,7 +11,7 @@ import BeforeAfterSlider from './BeforeAfterSlider'
 export const Hero = props => {
   const config = props?.NOTION_CONFIG || CONFIG
   return (
-   <div>
+   <>
       {/* <!-- ====== Hero Section Start --> */}
       <div
         id='home'
@@ -100,6 +100,6 @@ export const Hero = props => {
       )}
       {/* <!-- ======= Hero Section End --> */}
     </div>            {/* ← ① 关闭 id='home' 的 div */}
-  </div>              {/* ← ② 关闭最外层包装 div */}
+  </>
 )
 }
