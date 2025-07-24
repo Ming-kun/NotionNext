@@ -100,6 +100,7 @@ export const Hero = props => {
         </div>
       )}
       {/* <!-- ====== Hero Section End --> */}
-    </>
+
+      </>  {/* ← 这里补上片段的收尾 */}
   )
 }
