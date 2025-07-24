@@ -74,7 +74,6 @@ export const Hero = props => {
               </div>
             </div>
 
-            {/* 产品预览图片整版已删除 */}
             {/* Before‑After 对比图 */}
             <div className='w-full px-4'>
              <div
@@ -99,7 +98,7 @@ export const Hero = props => {
             )}></LazyImage>
         </div>
       )}
-  {/* <!-- ======= Hero Section End --> */}
-      </>
-    )
-  }
+   {/* <!-- ======= Hero Section End --> */}
+    </>
+  )
+}
