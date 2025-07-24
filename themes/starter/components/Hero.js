@@ -103,7 +103,6 @@ export const Hero = props => {
         </div>
       )}
       {/* <!-- ======= Hero Section End --> */}
-    </div>            {/* ← ① 关闭 id='home' 的 div */}
   </>
 )
 }
