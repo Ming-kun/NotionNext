@@ -1,3 +1,6 @@
+// pages/_app.js  (最顶部、任意其他 import 之前)
+import 'react-before-after-slider-component/dist/build.css'
+
 // import '@/styles/animate.css' // @see https://animate.style/
 import '@/styles/globals.css'
 import '@/styles/utility-patterns.css'
